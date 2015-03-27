@@ -3,7 +3,7 @@
 # initial dev setup script
 #
 CWD=`pwd`
-NAME=${NAME:=appcelerator}
+NAME=${NAME:=TiForward}
 PREFIX="git clone git@github.com:$NAME/hyperloop"
 ESC_SEQ="\x1b["
 RESET=$ESC_SEQ"39;49;00m"
